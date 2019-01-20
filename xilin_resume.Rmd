@@ -1,0 +1,63 @@
+---
+title: "Xilin Chen's Resume"
+author: Xilin Chen
+output: pagedown::html_resume
+---
+
+Aside
+================================================================================
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> xilinc@umich.edu
+- <i class="fa fa-github"></i> [github.com/xilinchen](https://github.com/xilinchen)
+- <i class="fa fa-phone"></i> +1 610-462-3868
+- <i class="fas fa-map-marked-alt"></i> 3085 Whisperwood Dr., Ann Arbor, MI 48105
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Three years full-time working experience as data analyst in medical research field
+
+- Educated in statistical analysis, with expertise in conducting analysis and interpretation of results
+
+- Highly skilled in statistical software R, SAS, Stata, SQL and geographic information system (GIS)
+
+
+Main
+================================================================================
+
+Xilin Chen {#title}
+--------------------------------------------------------------------------------
+
+I am an experienced data analyst with enthusiasm and expertise in healthcare research and data analysis. I enjoy working in an interdisciplinary team and solving data challenges.
+
+Education {data-icon=graduation-cap}
+------------------------------------
+### Master of Public Health
+
+University of Pittsburgh 
+
+Pittsburgh, PA
+
+2014 - 2016
+
+*Major: Environmental and Occupational Health*
+
+
+### Bachelar of Science
+
+Sichuan Agricultural University
+
+Sichuan, China
+
+2010 - 2014
+
+*Major: Food Science and Engineering*
+
+
+
+### 
